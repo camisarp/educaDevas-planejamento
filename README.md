@@ -48,7 +48,7 @@ Turma Online | Back-end | Módulo 1 | Semana X | 2023 | Duração 1:30h | Profes
 
 ## Construção de conteúdo
 
-- Roteiro de aula
+- [Roteiro de aula](https://github.com/camisarp/educaDevas-planejamento/blob/main/roteiro.md)
 
 ## Exercícios
 
