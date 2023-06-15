@@ -8,7 +8,6 @@ Turma Online | Back-end | Módulo 1 | Semana X | 2023 | Duração 1:30h | Profes
 
 </br>
 
-
 - [Estrutura de Dados (lista, objetos e arrays)](#estrutura-de-dados-lista-objetos-e-arrays)
   - [Pré-requisitos](#pré-requisitos)
     - [Quais são os softwares necessários para a aula?](#quais-são-os-softwares-necessários-para-a-aula)
@@ -53,15 +52,24 @@ Turma Online | Back-end | Módulo 1 | Semana X | 2023 | Duração 1:30h | Profes
 
 ## Exercícios
 
-- [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-- [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+- [Exercicio para sala](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-sala)
+- [Exercicio para casa](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-casa)
 
 ## Links Úteis
 
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+📑 [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br>
+📑 [Documentação Arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)<br>
+📑 [Documentação Objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects)<br>
+📑 [JavaScript Arrays W3schools](https://www.w3schools.com/js/js_arrays.asp)<br>
+📑 [Documentação Objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects)<br>
+
+🎬 [Criando Arrays | Série para Iniciantes em JavaScript #27](https://www.youtube.com/watch?v=rlvD4Umw37U)<br>
+🎬 [Demo: Criando Arrays | Série para Iniciantes em JavaScript #28](https://www.youtube.com/watch?v=cR0yZYJ3ePM)<br>
+🎬 [Arrays - Curso Introdutório de JavaScript GRATUITO | Trybe](https://www.youtube.com/watch?v=defBuY0nLrc)<br>
+🎬 [Métodos de Arrays | Série para Iniciantes em JavaScript #31](https://www.youtube.com/watch?v=Q-mHz5KxLG4)<br>
+🎬 [Demo: Métodos de Arrays | Série para Iniciantes em JavaScript #32](https://www.youtube.com/watch?v=NuhV9gaJI-Y&t=295s)<br>
+🎬 [10 Funções Array em JavaScript para Você Ganhar Tempo ao Tratar Dados - Root #12](https://www.youtube.com/watch?v=-f5E5Lhocuo)<br>
+
 
 <br>
 
