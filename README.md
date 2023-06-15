@@ -19,41 +19,55 @@ Turma Online | Back-end | Módulo 1 | Semana X | 2023 | Duração 1:30h | Profes
 
 ## Pré-requisitos
 
-- Conhecimentos básicos de lógica de programação.
-- Familiaridade com a linguagem JavaScript (sintaxe, variáveis, operadores).
-- Noções sobre a criação e execução de programas em JavaScript (ambiente de desenvolvimento, execução de scripts).
-- Interesse em aprender sobre estruturas de dados e sua aplicação em programação.
-- Motivação para explorar conceitos e praticar por meio de exercícios e projetos.
+🔸 Conhecimentos básicos de lógica de programação.
+
+🔸 Familiaridade com a linguagem JavaScript (sintaxe, variáveis, operadores).
+
+🔸 Noções sobre a criação e execução de programas em JavaScript (ambiente de desenvolvimento, execução de scripts).
+
+🔸 Interesse em aprender sobre estruturas de dados e sua aplicação em programação.
+
+🔸 Motivação para explorar conceitos e praticar por meio de exercícios e projetos.
 
 ### Quais são os softwares necessários para a aula?
 
-- Um navegador atualizado (Google Chrome, Firefox, etc.)
-- Ambiente de desenvolvimento integrado (IDE) ou editor de texto (ex: Visual Studio Code, Atom, ou o Replit online (https://replit.com/)).
-- Git instalado em seu computador
-- Ter uma conta no GitHub
+🔸 Um navegador atualizado (Google Chrome, Firefox, etc.)
+
+🔸 Ambiente de desenvolvimento integrado (IDE) ou editor de texto (ex: Visual Studio Code, Atom, ou o Replit online (https://replit.com/)).
+
+🔸 Git instalado em seu computador
+
+🔸 Ter uma conta no GitHub
 
 ## Próposito
 
-- Introduzir as alunas ao conceito de estruturas de dados e sua importância na programação.
-- Explorar as listas como uma estrutura fundamental, ensinando como criar, acessar e modificar listas usando arrays em JavaScript.
-- Apresentar os objetos como uma forma de representar entidades e suas propriedades, mostrando como criar, acessar e modificar objetos.
-- Abordar os arrays como estruturas para armazenar coleções ordenadas de elementos, ensinando como criar, acessar e modificar arrays.
-- Destacar as diferenças entre listas e arrays em JavaScript.
-- Promover a prática por meio de exercícios e projetos para consolidar o conhecimento adquirido.
-- Estimular a curiosidade e a continuidade do aprendizado, encorajando as alunas a explorar mais sobre estruturas de dados em JavaScript.
+🔸 Introduzir as alunas ao conceito de estruturas de dados e sua importância na programação.
+
+🔸 Explorar as listas como uma estrutura fundamental, ensinando como criar, acessar e modificar listas usando arrays em JavaScript.
+
+🔸 Apresentar os objetos como uma forma de representar entidades e suas propriedades, mostrando como criar, acessar e modificar objetos.
+
+🔸 Abordar os arrays como estruturas para armazenar coleções ordenadas de elementos, ensinando como criar, acessar e modificar arrays.
+
+🔸 Destacar as diferenças entre listas e arrays em JavaScript.
+
+🔸 Promover a prática por meio de exercícios e projetos para consolidar o conhecimento adquirido.
+
+🔸 Estimular a curiosidade e a continuidade do aprendizado, encorajando as alunas a explorar mais sobre estruturas de dados em JavaScript.
 
 ## Apresentação e contextualização
 
-- Slides
+🔸 Slides
 
 ## Construção de conteúdo
 
-- [Roteiro de aula](https://github.com/camisarp/educaDevas-planejamento/blob/main/roteiro.md)
+🔸 [Roteiro de aula](https://github.com/camisarp/educaDevas-planejamento/blob/main/roteiro.md)
 
 ## Exercícios
 
-- [Exercicio para sala](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-sala)
-- [Exercicio para casa](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-casa)
+🔸 [Exercicio para sala](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-sala)
+
+🔸 [Exercicio para casa](https://github.com/camisarp/educaDevas-planejamento/tree/main/exercicios/para-casa)
 
 ## Links Úteis
 
