@@ -2,13 +2,12 @@
   <img src="assets/Deva.png" alt="logo deva" width="500">
 </h1>
 
-# Estrutura de Dados (lista, objetos e arrays)
+# 🌈 Estrutura de Dados (lista, objetos e arrays)
 
 Turma Online | Back-end | Módulo 1 | Semana X | 2023 | Duração 1:30h | Professora Camila Ribeiro
 
 </br>
 
-- [Estrutura de Dados (lista, objetos e arrays)](#estrutura-de-dados-lista-objetos-e-arrays)
   - [Pré-requisitos](#pré-requisitos)
     - [Quais são os softwares necessários para a aula?](#quais-são-os-softwares-necessários-para-a-aula)
   - [Próposito](#próposito)
