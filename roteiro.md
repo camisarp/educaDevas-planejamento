@@ -1,6 +1,5 @@
-# Roteiro de aula
+# 🌈 Roteiro de aula
 
-- [Roteiro de aula](#roteiro-de-aula)
   - [Introdução](#introdução)
   - [Listas](#listas)
   - [Objetos](#objetos)
