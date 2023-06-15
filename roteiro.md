@@ -1,5 +1,7 @@
 # 🌈 Roteiro de aula
 
+
+- [🌈 Roteiro de aula](#-roteiro-de-aula)
   - [Introdução](#introdução)
   - [Listas](#listas)
   - [Objetos](#objetos)
@@ -52,13 +54,14 @@ let listaTarefas = ["Estudar", "Fazer exercícios", "Limpar a casa"];
 
 🔸 Introduzir os conceitos básicos de como criar, acessar e modificar listas, demonstrando a sintaxe e os métodos específicos do JavaScript.
 
+🔸 Explicar como criar uma lista usando um array em JavaScript, ressaltando a simplicidade e flexibilidade dessa estrutura de dados.
 - Criando uma lista vazia
 
 ```javascript
 let minhaLista = [];
 ```
 
-- Adicionando itens à lista usando o método push
+- Adicionando itens à lista usando o método **_push_**
 
 ```javascript
 minhaLista.push("item1");
@@ -80,30 +83,28 @@ minhaLista[1] = "item2 modificado";
 console.log(minhaLista); // Output: ['item1', 'item2 modificado', 'item3']
 ```
 
-🔸 Explicar como criar uma lista usando um array em JavaScript, ressaltando a simplicidade e flexibilidade dessa estrutura de dados.
+🔸 Mostrar exemplos práticos de como adicionar e remover itens de uma lista, utilizando métodos como **_push_**, **_pop_**, **_shift_** e **_unshift_**.
 
-🔸 Mostrar exemplos práticos de como adicionar e remover itens de uma lista, utilizando métodos como push, pop, shift e unshift.
-
-- Adicionando itens no final da lista usando o método push
+- Adicionando itens no final da lista usando o método **_push_**
 
 ```javascript
 minhaLista.push("item4");
 minhaLista.push("item5");
 ```
 
-- Removendo o último item da lista usando o método pop
+- Removendo o último item da lista usando o método **_pop_**
 
 ```javascript
 minhaLista.pop();
 ```
 
-- Adicionando itens no início da lista usando o método unshift
+- Adicionando itens no início da lista usando o método **_unshift_**
 
 ```javascript
 minhaLista.unshift("item0");
 ```
 
-- Removendo o primeiro item da lista usando o método shift
+- Removendo o primeiro item da lista usando o método **_shift_**
 
 ```javascript
 minhaLista.shift();
@@ -113,7 +114,7 @@ console.log(minhaLista); // Output: ['item1', 'item2 modificado', 'item3', 'item
 
 🔸 Explicar como percorrer uma lista usando loops, como for ou forEach, mostrando como acessar e manipular cada elemento individualmente.
 
-- Percorrendo uma lista usando um loop for
+- Percorrendo uma lista usando um **_loop for_**
 
 ```javascript
 for (let i = 0; i < minhaLista.length; i++) {
@@ -121,7 +122,7 @@ for (let i = 0; i < minhaLista.length; i++) {
 }
 ```
 
-- Percorrendo uma lista usando o método forEach
+- Percorrendo uma lista usando o método **_forEach_**
 
 ```javascript
 minhaLista.forEach(function (item) {
@@ -131,12 +132,17 @@ minhaLista.forEach(function (item) {
 
 🔸 Pedir às alunas para praticarem a criação e manipulação de listas através de um exercício prático.
 
-- Exercício: Crie uma lista de números e realize as seguintes operações:
+📌**Exercício:**
 
-1. Adicione um número no final da lista
-2. Remova o primeiro número da lista
-3. Acesse o segundo número da lista e imprima no console
-4. Percorra a lista e imprima todos os números no console
+1️⃣ Crie uma lista de números e realize as seguintes operações:
+
+2️⃣ Adicione um número no final da lista
+
+3️⃣ Remova o primeiro número da lista
+
+4️⃣ Acesse o segundo número da lista e imprima no console
+
+5️⃣ Percorra a lista e imprima todos os números no console
 
 ```javascript
 let numeros = [1, 2, 3, 4, 5];
@@ -188,14 +194,14 @@ let carro = {
 let meuObjeto = {};
 ```
 
-- Atribuindo propriedades ao objeto usando a notação de ponto
+- Atribuindo propriedades ao objeto
 
 ```javascript
 meuObjeto.nome = "Exemplo";
 meuObjeto.idade = 25;
 ```
 
-- Acessando propriedades do objeto usando a notação de ponto
+- Acessando propriedades do objeto
 
 ```javascript
 console.log(meuObjeto.nome); // Output: 'Exemplo'
@@ -229,7 +235,7 @@ console.log(meuObjeto); // Output: { nome: 'Exemplo', idade: 35 }
 
 🔸 Explicar como adicionar métodos a um objeto, demonstrando como uma função pode ser associada a uma propriedade de um objeto.
 
-- Adicionando um método ao objeto usando a notação de ponto
+- Adicionando um método ao objeto
 
 ```javascript
 meuObjeto.saudacao = function () {
@@ -245,11 +251,13 @@ meuObjeto.saudacao(); // Output: 'Olá!'
 
 🔸 Realizar um exercício prático em que as alunas criem e manipulem objetos para resolver um problema específico.
 
-- Exercício: Crie um objeto "aluno" com as seguintes propriedades: nome, idade e notas.
+📌**Exercício:**
 
-- Adicione um método ao objeto para calcular a média das notas.
+1️⃣ Crie um objeto "aluno" com as seguintes propriedades: nome, idade e notas.
 
-- Acesse e imprima no console o nome, idade e média do aluno.
+2️⃣ Adicione um método ao objeto para calcular a média das notas.
+
+3️⃣ Acesse e imprima no console o nome, idade e média do aluno.
 
 ```javascript
 let aluno = {
@@ -324,15 +332,39 @@ console.log(meuArray); // Output: [10, 25, 30]
 
 🔸 Explicar como criar um array em JavaScript, enfatizando a flexibilidade para armazenar diferentes tipos de dados em um único array.
 
-🔸 Mostrar exemplos práticos de como adicionar e remover itens de um array usando métodos como push, pop, shift e splice.
+- Criando um array de elementos
 
-- Adicionando elementos ao final do array usando o método push
+```javascript
+let meuArray = [1, 'dois', true, { nome: 'Maria' }];
+```
+- Acessando elementos do array
+
+```javascript
+console.log(meuArray[0]); // Output: 1
+console.log(meuArray[1]); // Output: 'dois'
+console.log(meuArray[2]); // Output: true
+console.log(meuArray[3]); // Output: { nome: 'Maria' }
+```
+- Modificando um elemento do array
+
+```javascript
+meuArray[2] = false;
+```
+- Imprimindo o array completo
+
+```javascript
+console.log(meuArray); // Output: [1, 'dois', false, { nome: 'Maria' }]
+```
+
+🔸 Mostrar exemplos práticos de como adicionar e remover itens de um array usando métodos como **_push_**, **_pop_**, **_shift_** e **_splice_**.
+
+- Adicionando elementos ao final do array usando o método **_push_**
 
 ```javascript
 meuArray.push(40);
 ```
 
-- Removendo o último elemento do array usando o método pop
+- Removendo o último elemento do array usando o método **_pop_**
 
 ```javascript
 let ultimoElemento = meuArray.pop();
@@ -340,7 +372,7 @@ let ultimoElemento = meuArray.pop();
 console.log(meuArray); // Output: [10, 25, 30]
 ```
 
-- Removendo o primeiro elemento do array usando o método shift
+- Removendo o primeiro elemento do array usando o método **_shift_**
 
 ```javascript
 let primeiroElemento = meuArray.shift();
@@ -348,7 +380,7 @@ let primeiroElemento = meuArray.shift();
 console.log(meuArray); // Output: [25, 30]
 ```
 
-- Adicionando elementos no início do array usando o método unshift
+- Adicionando elementos no início do array usando o método **_unshift_**
 
 ```javascript
 meuArray.unshift(5, 15);
@@ -358,7 +390,7 @@ console.log(meuArray); // Output: [5, 15, 25, 30]
 
 🔸 Explicar como percorrer um array usando loops, como for ou forEach, mostrando como acessar e manipular cada elemento individualmente.
 
-- Percorrendo um array usando o loop for
+- Percorrendo um array usando o **_loop for_**
 
 ```javascript
 for (let i = 0; i < meuArray.length; i++) {
@@ -366,7 +398,7 @@ for (let i = 0; i < meuArray.length; i++) {
 }
 ```
 
-- Percorrendo um array usando o método forEach
+- Percorrendo um array usando o método **_forEach_**
 
 ```javascript
 meuArray.forEach(function (elemento) {
@@ -384,9 +416,11 @@ meuArray.forEach(function (elemento) {
 
 🔸 Propor um exercício prático em que as alunas utilizem arrays para resolver um desafio de programação.
 
-- Exercício: Crie um array de números e remova todos os números pares do array.
+📌**Exercício:**
 
-- Em seguida, multiplique todos os números restantes por 2 e imprima-os no console.
+1️⃣ Crie um array de números e remova todos os números pares do array.
+
+2️⃣ Em seguida, multiplique todos os números restantes por 2 e imprima-os no console.
 
 ```javascript
 let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
